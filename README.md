@@ -19,11 +19,3 @@
 - 🎬 Anime enjoyer, especially **Tokyo Revengers**, **AOT**, and **JJK**
 
 ---
-
-### 🐈 My Style  
-```elixir
-defmodule Chifuyu do
-  def motto do
-    "Loyalty. Code. Brotherhood."
-  end
-end
