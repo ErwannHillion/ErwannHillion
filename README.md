@@ -15,7 +15,7 @@
 ### 🧠 About Me  
 - 💻 Full-stack developer passionate about **Elixir / Phoenix**  
 - 🎓 Studying **Mastère Dev / IA** at **IPSSI Paris**  
-- 🏍️ Motorcycle & tech enthusiast  
+- 🏍️ Motorcycle, cars & tech enthusiast  
 - 🎬 Anime enjoyer, especially **Tokyo Revengers**, **AOT**, and **JJK**
   
 ---
