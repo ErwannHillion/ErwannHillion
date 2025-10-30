@@ -50,4 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwannHillion&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-![Snake animation](https://github.com/ErwannHillion/ErwannHillion/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErwannHillion/ErwannHillion/output/snake-dark.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ErwannHillion/ErwannHillion/output/snake.svg"/>
+</picture>
