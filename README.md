@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">👊 Yo, I'm SHDXW — 🐈</h1>
 
-<!--
-**ErwannHillion/ErwannHillion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/1aF2j3b.gif" alt="Chifuyu Matsuno" width="250px"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>"Even if it kills me, I'll never betray my friends."</strong>
+  <br>
+  <em>– Chifuyu Matsuno</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me  
+- 💻 Full-stack developer passionate about **Elixir / Phoenix / Tailwind**  
+- ⚡ Currently working on **Intranet**, **Cristalflow**, and **Smovie**  
+- 🎓 Studying **Mastère Dev / IA** at **IPSSI Paris**  
+- 🏍️ Motorcycle & tech enthusiast  
+- 🎬 Anime enjoyer, especially **Tokyo Revengers**, **AOT**, and **JJK**
+
+---
+
+### 🐈 My Style  
+```elixir
+defmodule Chifuyu do
+  def motto do
+    "Loyalty. Code. Brotherhood."
+  end
+end
