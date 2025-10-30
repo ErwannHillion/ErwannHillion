@@ -1,7 +1,7 @@
 <h1 align="center">👊 Yo, I'm SHDXW — 🐈</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/1aF2j3b.gif" alt="Chifuyu Matsuno" width="250px"/>
+  <img src="https://i.imgur.com/e0qdTsx.gif" alt="Chifuyu Matsuno" width="250px"/>
 </p>
 
 <p align="center">
@@ -13,8 +13,7 @@
 ---
 
 ### 🧠 About Me  
-- 💻 Full-stack developer passionate about **Elixir / Phoenix / Tailwind**  
-- ⚡ Currently working on **Intranet**, **Cristalflow**, and **Smovie**  
+- 💻 Full-stack developer passionate about **Elixir / Phoenix**  
 - 🎓 Studying **Mastère Dev / IA** at **IPSSI Paris**  
 - 🏍️ Motorcycle & tech enthusiast  
 - 🎬 Anime enjoyer, especially **Tokyo Revengers**, **AOT**, and **JJK**
