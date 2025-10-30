@@ -5,7 +5,7 @@ on:
     - cron: "0 */24 * * *" # tous les 24h
   workflow_dispatch:
 
-# ⬅️ Donne l'accès en écriture au token
+
 permissions:
   contents: write
 
@@ -13,8 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # (facultatif) checkout si tu veux, pas obligatoire ici
-      # - uses: actions/checkout@v4
+
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -23,14 +22,13 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
           palette: github-dark
 
-      # ⚠️ Passe à la v3 de l'action gh-pages
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
           commit_message: "Deploy snake"
-          # si tu veux l’historique propre:
-          # keep_history: true
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
