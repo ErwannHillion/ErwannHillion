@@ -1,4 +1,4 @@
-<h1 align="center">👊 Yo, I'm SHDXW — 🐈</h1>
+<h1 align="center">👋 Hey, I'm SHDXW — 🐈</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/e0qdTsx.gif" alt="Chifuyu Matsuno" width="250px"/>
